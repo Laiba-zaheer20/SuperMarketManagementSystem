@@ -1,0 +1,90 @@
+c:\users\cdc\documents\visual studio 2010\Projects\oop project\oop project\bin\Debug\oop project.exe
+c:\users\cdc\documents\visual studio 2010\Projects\oop project\oop project\bin\Debug\oop project.pdb
+c:\users\cdc\documents\visual studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop_project.Form1.resources
+c:\users\cdc\documents\visual studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop_project.Properties.Resources.resources
+c:\users\cdc\documents\visual studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop project.csproj.GenerateResource.Cache
+c:\users\cdc\documents\visual studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop project.exe
+c:\users\cdc\documents\visual studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop project.pdb
+C:\Users\cdc\Documents\Visual Studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop project.csprojResolveAssemblyReference.cache
+C:\Users\cdc\Documents\Visual Studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop_project.login.resources
+C:\Users\cdc\Documents\Visual Studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop_project.manager.resources
+C:\Users\cdc\Documents\Visual Studio 2010\Projects\oop project\oop project\obj\x86\Debug\oop_project.add_items.resources
+C:\Users\cdc\Desktop\New folder\oop project\oop project\obj\x86\Debug\oop project.exe
+C:\Users\cdc\Desktop\New folder\oop project\oop project\obj\x86\Debug\oop project.pdb
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop project.exe
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop project.pdb
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop project.csprojResolveAssemblyReference.cache
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop_project.add_items.resources
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop_project.form1.resources
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop_project.login.resources
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop_project.manager.resources
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop_project.Properties.Resources.resources
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop_project.viewitems.resources
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop project.csproj.GenerateResource.Cache
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\bin\Debug\oop project.exe
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\bin\Debug\oop project.pdb
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\bin\Debug\oop project.exe.config
+C:\Users\cdc\Downloads\New folderd\New folder\oop project\oop project\obj\x86\Debug\oop_project.exit.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\bin\Debug\oop project.exe.config
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop project.exe
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop project.pdb
+C:\Users\cdc\Desktop\lala\oop project\oop project\bin\Debug\oop project.exe
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop project.csprojResolveAssemblyReference.cache
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.add_items.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.exit.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.form1.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Form2.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.login.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.manager.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Properties.Resources.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.viewitems.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop project.csproj.GenerateResource.Cache
+C:\Users\cdc\Desktop\lala\oop project\oop project\bin\Debug\oop project.pdb
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Form3.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Form4.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Form5.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Form6.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Form7.resources
+C:\Users\cdc\Desktop\lala\oop project\oop project\obj\x86\Debug\oop_project.Form8.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\bin\Debug\oop project.exe.config
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop project.exe
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop project.pdb
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\bin\Debug\oop project.exe
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\bin\Debug\oop project.pdb
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop project.csprojResolveAssemblyReference.cache
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.add_items.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.exit.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.form1.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Form2.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Form3.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Form4.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Form5.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Form6.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Form7.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Form8.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.login.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.manager.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.Properties.Resources.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop_project.viewitems.resources
+C:\Users\Nayyer\Downloads\final\lala\oop project\oop project\obj\x86\Debug\oop project.csproj.GenerateResource.Cache
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\bin\Debug\oop project.exe.config
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop project.exe
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop project.pdb
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\bin\Debug\oop project.exe
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\bin\Debug\oop project.pdb
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop project.csprojResolveAssemblyReference.cache
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.add_items.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.exit.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.form1.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Form2.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Form3.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Form4.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Form5.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Form6.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Form7.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Form8.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.login.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.manager.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Properties.Resources.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.viewitems.resources
+C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop project.csproj.GenerateResource.Cache
