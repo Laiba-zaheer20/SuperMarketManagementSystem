@@ -35,7 +35,7 @@ namespace oop_project
             {
 
                 string l = "INSERT INTO EmployeesRecord (Posts,IDs,Persons,Phone_Numbers,Salarys)values('" + post + "','" + id + "','" + name + "','" + phonenumber + "','" + salary + "')";
-                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                 cmd.Connection = cn;
                 try
@@ -61,7 +61,7 @@ Persist Security Info=False;";
             if (id != "")
             {
                 string q = "delete from  EmployeesRecord where IDs='" + id + "'";
-                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                 cmd.Connection = cn;
                 try
@@ -85,7 +85,7 @@ Persist Security Info=False;";
             if (id != "")
             {
                 string q = "update EmployeesRecord set Salarys='" + salary + "'where IDs='" + id + "'";
-                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                 cmd.Connection = cn;
                 try
@@ -104,7 +104,7 @@ Persist Security Info=False;";
         public void viewemployee(DataGridView v)
         {
             OleDbConnection connection = new OleDbConnection();
-            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
             try
             {

@@ -88,3 +88,24 @@ C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\
 C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.Properties.Resources.resources
 C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop_project.viewitems.resources
 C:\Users\Goose\Downloads\OOP PROJECT(LRK)\oop project\oop project\obj\x86\Debug\oop project.csproj.GenerateResource.Cache
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\bin\Debug\oop project.exe.config
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop project.exe
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop project.pdb
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\bin\Debug\oop project.exe
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\bin\Debug\oop project.pdb
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop project.csprojResolveAssemblyReference.cache
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.add_items.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.exit.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.form1.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Form2.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Form3.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Form4.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Form5.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Form6.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Form7.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Form8.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.login.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.manager.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.Properties.Resources.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop_project.viewitems.resources
+D:\proje\SuperMarketManagementSystem\SuperMarketManagementSystem(GUI)\oop project\oop project\obj\x86\Debug\oop project.csproj.GenerateResource.Cache

@@ -15,7 +15,7 @@ namespace oop_project
 
         public stock(string c, string q, string com, string eos, string dop)
         {
-            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
             cost = c;
             quantity = q;

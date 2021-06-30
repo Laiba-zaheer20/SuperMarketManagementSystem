@@ -34,7 +34,7 @@ namespace oop_project
             if (com != "")
             {
                 string q = "update oilstock set cost='"+cost+"' where company='"+com+"'";
-                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                 cmd.Connection = cn;
                 try
@@ -56,7 +56,7 @@ Persist Security Info=False;";
       
         public void viewitem(DataGridView v) {
 
-            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
             try
             {
@@ -87,7 +87,7 @@ Persist Security Info=False;";
 
             if (tb != "") {
                 string q = "delete from oilstock where company='"+tb+"'";
-                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                 cmd.Connection = cn;
                 try
@@ -118,7 +118,7 @@ Persist Security Info=False;";
             if (com != "")
             {
                 string q = "insert into  oilstock(company,type,ids)values('"+com+"','"+ty+"','"+k+"')";
-                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                 cmd.Connection = cn;
                 try
@@ -148,7 +148,7 @@ Persist Security Info=False;";
             {
 
                 string q = "update oilstock set cost='" + cost + "' where company='" + com + "'";
-                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+                cn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                 cmd.Connection = cn;
                 try
@@ -170,7 +170,7 @@ Persist Security Info=False;";
            public string  viewquantity(string n){
 
 
-               connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Nayyer\Desktop\oop data base for oil.accdb;
+               connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\oop data base for oil.accdb;
 Persist Security Info=False;";
                try{
             connection.Open();
